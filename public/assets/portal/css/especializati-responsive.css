@@ -1,0 +1,140 @@
+/*Mobile*/
+@media screen and (max-width: 479px) {
+	form.form-search input{width: 100px;}
+	.title{font-size: 1.8em;}
+	.sub-title{font-size: 1.2em;}
+}
+
+@media screen and (max-width: 768px) {
+	form.form-search input{width: 180px;}
+	h1.text-slide{font-size: 1em;}
+	.title{font-size: 2em;}
+}
+
+@media only screen and (min-device-width : 320px){
+   
+.navbar-toggle{background: #f7921e;}
+.icon-bar{background: #FFF;}
+.dropdown-menu{background: #024B5F}
+.dropdown-menu>li>a{color: #FFF !important;}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover{background: #024B5F}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+	h1.text-slide{font-size: 2em;}
+	.title{font-size: 2em;}
+        
+        .slide{
+            background: #080808;
+             float: left;
+             width: 100%;
+             padding: 40px 0px;
+        }
+        
+        .menu{
+    background: #7A8C89;
+}
+.menu a{
+    color: #FFF;
+    font-size: 1em;
+}
+.menu li a:hover{
+    background: #f7921e;
+}
+        
+      /* aplicando css no acesso do afiliado para celulares*/
+        div.login-acesso{
+   
+    padding: 5px 30px;
+    margin: 5px 60px 10px 550px;
+    color: #fff;
+    font-size: 35px;
+    
+    width:  200px;
+}
+
+div.form{
+		    float: none;
+			margin: 0px auto;
+			width: 800px;
+	}
+        
+        /*login responsivo para celular*/
+        div.topo-login{
+max-width: 500px;
+background-color: #215877;
+padding: 20px 30px 15px 30px;
+text-align: center;
+font-size: 60px;
+color: #FFF;
+margin: -18px -62px 26px -29px;
+}
+.login{
+max-width: 500px;
+
+padding: 20px 63px 10px 30px;
+background: #f5f5f5;
+}
+
+div.image-login{
+    text-align: center;
+}
+img.img-login{
+    max-width: 200px;
+}
+form.form-login{
+    margin-top: 14px;
+}
+form.form-login input{
+    width: 100%;
+    margin: 4px 0px;
+    padding: 10px;
+    font-size: 1.8em;
+    color: #2a3f54;
+    border-radius: 10px;
+    border: 1px solid #2a3f54;
+    height: 50px;
+    background: #fff;
+}
+form.form-login button{
+    /* width: 100%; */
+    padding: 10px 60px;
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #FFF;
+    background: #e69500;
+    border: none;
+    border-radius: 7px;
+    height: 85px;
+    margin: 4px 0px;
+}
+
+.btn-login{
+    background: #f7921e !important;
+    padding: 10px 0px !important;
+    margin: 0px;
+    height: 80px !important;
+    font-size: 3em !important;
+    color: #FFF !important;
+    max-width: 214px;
+    cursor: pointer;
+}
+}
+
+
+@media screen and (max-width: 989px) {
+	div.logo{margin-bottom: 20px; text-align: center;}
+	div.form{
+		    float: none;
+			margin: 0px auto;
+			width: 280px;
+	}
+}
+

@@ -1,0 +1,74 @@
+.bg-login{
+    background-color: #445b73;
+}
+.bg-register{
+    background-color: #dff5f2;
+}
+
+div.topo-login{
+max-width: 500px;
+background-color: #215877;
+padding: 20px 30px 15px 30px;
+text-align: center;
+font-size: 20px;
+color: #FFF;
+margin: -18px -62px 26px -29px;
+}
+.login{
+max-width: 500px;
+
+padding: 20px 63px 10px 30px;
+background: #f5f5f5;
+}
+
+div.image-login{
+    text-align: center;
+}
+img.img-login{
+    max-width: 200px;
+}
+form.form-login{
+    margin-top: 14px;
+}
+form.form-login input{
+    width: 100%;
+    margin: 4px 0px;
+    padding: 10px;
+    font-size: .8em;
+    color: #2a3f54;
+    border-radius: 10px;
+    border: 1px solid #2a3f54;
+    height: 50px;
+    background: #fff;
+}
+form.form-login button{
+    /* width: 100%; */
+    padding: 10px 60px;
+    font-size: .8em;
+    font-weight: bold;
+    color: #FFF;
+    background: #e69500;
+    border: none;
+    border-radius: 7px;
+    height: 45px;
+    margin: 4px 0px;
+}
+
+.btn-login{
+    background: #f7921e !important;
+    padding: 10px 0px !important;
+    margin: 0px;
+    height: 42px !important;
+    font-size: 1em !important;
+    color: #FFF !important;
+    max-width: 214px;
+    cursor: pointer;
+}
+
+.rel-pass{
+    color: #000;
+    display: block;
+    text-decoration: none;
+    margin: 10px 0px;
+}
+.logo-painel{max-width: 200px;}

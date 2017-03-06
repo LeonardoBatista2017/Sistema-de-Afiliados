@@ -1,0 +1,26 @@
+form input{border-radius: 0px !important;}
+.navbar-toggle{background: #f7921e;}
+.icon-bar{background: #FFF;}
+.dropdown-menu{background: #024B5F}
+.dropdown-menu>li>a{color: #FFF !important;}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover{background: #024B5F}
+
+/*Reset Pagination*/
+.pagination{
+    border-radius: 0 !important;
+    border: 1px solid #FFF !important;
+}
+.pagination>li{}
+.pagination>li>a, .pagination>li>span{
+    border-color: #219285 !important;
+    padding: 7px 14px;
+    margin: 6px;
+    background: #024B5F;
+    color: #FFF;
+    font-size: 1em;
+}
+.pagination>li>a:focus, .pagination>li>a:hover, .pagination>li>span:focus, .pagination>li>span:hover{
+    background: #23756b;
+    color: #FFF;
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover{background-color: #1b504a; border-color: #1b504a;}
